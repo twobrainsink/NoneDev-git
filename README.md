@@ -1,4 +1,10 @@
-Hi, I'm Dmitry. 
-I love programming and information security. 
-I post some of my projects here. 
-If you want to contact us by mail: chuvilind05@mail.ru (I know that the description is trite and it's not original)
+Привет, я NoneDev занимаюсь информационной безопастностью и программированием.
+Я являюсь одним из основателей и также программистом компании "Two Brains inc" которая делает много интересных проектов таких как:
+  1. LED Mask - Светодиодные маски на которых можно рисовать с помощю телефона.
+  2. Anti Ice - Устройство для отопления крыш домов чтобы на них не образовывалась наледь.
+  3. SmartHouse - Система умного дома для создания комфортной и безопастной среды.
+
+Мои контактные данные:
+  Email - chuvilind05@mail.ru
+  Telegram - @NoneDevTg
+  Telegram канал - https://t.me/NoneDev1903
