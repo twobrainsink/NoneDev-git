@@ -8,3 +8,7 @@
   Email - chuvilind05@mail.ru
   Telegram - @NoneDevTg
   Telegram канал - https://t.me/NoneDev1903
+  
+  Контактные данные нашего инжинера: 
+    Email - timafeig@yandex.ru
+    Telegtam канал - https://t.me/HardLiteSphere
