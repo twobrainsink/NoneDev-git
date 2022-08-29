@@ -9,6 +9,6 @@
   Telegram - @NoneDevTg
   Telegram канал - https://t.me/NoneDev1903
   
-  Контактные данные нашего инжинера: 
+  Контактные данные нашего инжинера по совместительству главного создателя компании: 
     Email - timafeig@yandex.ru
     Telegtam канал - https://t.me/HardLiteSphere
